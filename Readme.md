@@ -84,6 +84,7 @@ pip install -r requirements.txt
 Details of the dataset is presented here.
 - We curate a high-quality dataset of 14,160 labeled samples, categorized into five distinct classes, including illegal gambling.
 - We collect 123 keywords and 14 domains, resulting 12,054 search queries.
+- Dataset will be provided upon request.
 
 <div style="text-align: center;">
   <img src="./images/dataset_overview.png" width="600">
